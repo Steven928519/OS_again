@@ -3,6 +3,8 @@
 "hello\main.o"
 "hello\stm32f4xx_it.o"
 "hello\stm32f4xx_hal_msp.o"
+"hello\stm32f4xx_hal_tim.o"
+"hello\stm32f4xx_hal_tim_ex.o"
 "hello\stm32f4xx_hal_rcc.o"
 "hello\stm32f4xx_hal_rcc_ex.o"
 "hello\stm32f4xx_hal_flash.o"
