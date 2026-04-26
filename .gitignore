@@ -1,0 +1,13 @@
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+
+MDK-ARM/**/*.axf
+MDK-ARM/**/*.hex
+MDK-ARM/**/*.map
+MDK-ARM/**/*.htm
+MDK-ARM/**/*.dep
+MDK-ARM/**/*.crf
+MDK-ARM/**/*.o
+MDK-ARM/**/*.d
+MDK-ARM/**/*.lnp
+MDK-ARM/**/*.lst
